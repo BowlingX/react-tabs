@@ -27,7 +27,7 @@
   },
   "files": [
     "dist",
-    "lib"
+    "lib_compiled"
   ],
   "homepage": "https://github.com/rackt/react-tabs",
   "keywords": [
